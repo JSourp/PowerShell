@@ -6,3 +6,5 @@ for ($i = 0; $i -lt $minutes; $i++) {
   Start-Sleep -Seconds 300
   $myshell.sendkeys(".")
 }
+
+# quick change
